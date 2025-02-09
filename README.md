@@ -4,4 +4,5 @@ You can say "Jarvis {Your task}" like - "Jarvis Play the nights" Here, the "Jarv
 In this project, I have used Python to automate Bard AI and some other websites for voice recognition, etc, and some prebuilt models of SKlearn to make predictions.                                             
 
 ### Development under progress...
-### Looking for contributions, email us at kartikdixit2107@gmail.com if interested.
+# Looking for contributions, email us at kartikdixit2107@gmail.com if interested.
+### Project Closed!
